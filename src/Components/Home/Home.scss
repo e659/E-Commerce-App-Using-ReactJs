@@ -1,0 +1,23 @@
+.homeImg img{
+    width: 85%;
+}
+.HomeContent :first-child{
+    font-size: 3rem;
+}
+.HomeContentP {
+    font-size: 2rem;
+}
+.HomeContent span{
+    font-size: 3rem;
+    color: darkmagenta;
+}
+.HomeContent button{
+    background-color: darkmagenta;
+    color: white;
+    font-size: 1.2rem;
+}
+.HomeContent .btn:hover{
+    background-color: white !important;
+    color:darkmagenta !important ;
+    border: 1px solid darkmagenta !important;
+}
